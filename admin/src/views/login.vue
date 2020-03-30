@@ -118,7 +118,7 @@
 
   .login-con {
     position: absolute;
-    right: 160px;
+    left: calc(50% - 150px);
     top: 50%;
     transform: translateY(-60%);
     width: 300px;
